@@ -244,6 +244,8 @@ http://localhost:8000/api/v1
 | GET    | `/dashboard/stats`  | Get channel statistics | ✅            |
 | GET    | `/dashboard/videos` | Get channel videos     | ✅            |
 
+- The complete postman collection can be found in root directory of this project named as postman_collection.json.
+
 ## 🔐 Authentication Flow
 
 1. **Registration**: User registers with email, username, password, and profile images
