@@ -152,6 +152,7 @@ express-starter/
 │   └── index.js           # Entry point
 ├── .env                   # Environment variables
 ├── package.json
+|-- postman_collection.json
 └── README.md
 ```
 
