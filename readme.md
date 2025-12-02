@@ -1,4 +1,4 @@
-# Express Starter - Video Sharing Platform Backend
+# Video Sharing Platform Backend
 
 A comprehensive, production-ready backend API built with Express.js, MongoDB, and Cloudinary for a full-featured video sharing platform similar to YouTube. This project implements industry-standard authentication, file upload handling, and RESTful API design patterns.
 
@@ -45,8 +45,7 @@ Before running this project, ensure you have the following installed:
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/AbdulMateen18/express-starter.git
-   cd express-starter
+   git clone https://github.com/AbdulMateen18/Video-Sharing-Backend.git
    ```
 
 2. **Install dependencies**
@@ -107,7 +106,7 @@ node src/index.js
 ## 📁 Project Structure
 
 ```
-express-starter/
+
 ├── public/
 │   └── temp/              # Temporary file storage for uploads
 ├── src/
